@@ -18,7 +18,7 @@ O design deste projeto foi baseado no seguinte layout do Figma:
 
 O projeto está disponível em produção através do link abaixo:
 
-👉 [https://nexcon-flame.vercel.app/](https://nexcon-flame.vercel.app/)
+[https://nexcon-flame.vercel.app/](https://nexcon-flame.vercel.app/)
 
 ---
 
@@ -31,7 +31,7 @@ A responsividade será adicionada em futuras atualizações.
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
@@ -39,29 +39,6 @@ A responsividade será adicionada em futuras atualizações.
 - [JavaScript (ES6+)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Vercel](https://vercel.com/) — Deploy
 
----
-
-## Estrutura do Projeto
-
-nexcon/
-│
-├── public/ # Imagens e assets públicos
-├── src/
-│ ├── assets/ # Logos, ícones e imagens
-│ ├── components/ # Componentes reutilizáveis
-│ │ ├── Navbar/
-│ │ ├── Hero/
-│ │ ├── Services/
-│ │ ├── Portfolio/
-│ │ ├── About/
-│ │ └── Footer/
-│ ├── styles/ # Estilos globais e reset
-│ ├── App.jsx # Componente principal
-│ └── main.jsx # Ponto de entrada da aplicação
-│
-├── package.json
-├── vite.config.js
-└── README.md
 
 ---
 

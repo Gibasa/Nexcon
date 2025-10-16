@@ -1,6 +1,6 @@
 # Nexcon - Minimal Landing Page
 
-![Preview do site](https://nexcon-flame.vercel.app/)
+[Preview do site](https://nexcon-flame.vercel.app/)
 
 Landing page moderna e minimalista desenvolvida em **React** com **Vite**, baseada em um design do Figma.
 
